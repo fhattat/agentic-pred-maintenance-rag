@@ -1,17 +1,10 @@
-# Core Data Science
 pandas
 numpy
 matplotlib
 seaborn
-
-# LLM Communication
 requests
 python-dotenv
-
-# Vector Database & Embeddings
 chromadb
-sentence-transformers
-pydantic>=2.0.0
-
-# Deployment & UI
+onnxruntime
+plotly
 streamlit
